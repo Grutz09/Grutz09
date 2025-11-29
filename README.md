@@ -1,7 +1,7 @@
 Hi 👋 My name is Jude
 =====================
 
-Data Analyst and Python Enthusiast
+Data Science and Python Enthusiast
 ----------------------------------
 
 * 🌍  I'm based in Philippines
